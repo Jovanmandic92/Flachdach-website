@@ -1,0 +1,20 @@
+MESKIC WEBSITE
+
+Ovo je originalni projekat pretvoren u uredan projekat bez node_modules.
+
+ZA POKRETANJE:
+1. Instaliraj Node.js (LTS): https://nodejs.org/
+2. Otvori ovaj folder u VS Code.
+3. Otvori Terminal u folderu.
+4. Pokreni:
+   npm install
+5. Zatim:
+   npm run dev
+6. Otvori adresu koju Vite prikaže (obično http://localhost:3000).
+
+ZA HOSTTECH:
+- Nakon 'npm run build' dobije se folder 'dist'.
+- Za obični HTML hosting treba uploadovati sadržaj foldera dist.
+
+NAPOMENA:
+Ovo nije potrebno prepravljati u ručni HTML/CSS/JS da bi radilo. Projekat je React + Vite i build ga pretvara u browser-ready HTML/CSS/JS.

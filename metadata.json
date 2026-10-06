@@ -1,0 +1,5 @@
+{
+  "name": "Wickside Dashboard",
+  "description": "A pixel-perfect recreation of the Wickside architectural dashboard with GSAP animations and architectural collage.",
+  "requestFramePermissions": []
+}
